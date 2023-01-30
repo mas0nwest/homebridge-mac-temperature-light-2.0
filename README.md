@@ -1,3 +1,6 @@
+#* CURRENTLY NOT WORKING!
+
+*
 # homebridge-mac-temperature-light
 
 [Homebridge](https://github.com/nfarina/homebridge) accessories to estimate room temperature, and room ambient light from your Mac's sensors.
@@ -24,3 +27,4 @@ Example:
     }
 ]
 ```
+*
