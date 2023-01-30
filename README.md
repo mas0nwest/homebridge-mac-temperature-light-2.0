@@ -1,9 +1,9 @@
 # `CURRENTLY NOT WORKING!`
 
 ## Tested Devices
-*Mac Mini 2012 - Catalina
-*MacBook Pro 2017 - Monterey
-*MacBook Air M2 - Ventura
+- Mac Mini 2012 - Catalina
+- MacBook Pro 2017 - Monterey
+- MacBook Pro M1 - Ventura - *not supported*
 
 ## Installation
 
